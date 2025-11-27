@@ -39,13 +39,13 @@ Skills
 
 This project analyzes Statcast pitch-by-pitch data from the 2024 MLB season to uncover which three-pitch sequences most effectively reduce run expectancy for MLB All-Star pitchers. By comparing each pitcher’s optimal sequence to a randomized baseline, the model highlights how strategic sequencing influences pitching effectiveness.
 Tech Stack: R, ggplot2, dplyr
-View Project → [https://github.com/typarker04/pitch-sequencing]
+[View Project](https://github.com/typarker04/pitch-sequencing)
 
 <b> 2022 World Cup Simulation </b>
 
 I created an end-to-end simulation of the 2022 World Cup in R, modeling team strength and match outcomes using real performance data. I fit a Bradley-Terry Model from previous match history to fit a latent-strength parameter, which could then be used to determine the log odds outcomes of each matchup. The model simulated the group stage, predicted the knockout bracket, and quantified each team's chances of advancing at every round.
 Tech Stack: R, Bradley-Terry, ggplot2, dplyr
-View Project → [https://github.com/typarker04/world-cup-simulation]
+[View Project](https://github.com/typarker04/world-cup-simulation)
 
 <b> NFL Catch Probability Estimator </b>
 
