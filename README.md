@@ -35,21 +35,24 @@ Skills
 </table>
 <b>Featured Projects</b>
 
-[Project Name 1] - Analyzing Pitch Sequences
+<b> Pitch Sequencing </b>
+
 This project analyzes Statcast pitch-by-pitch data from the 2024 MLB season to uncover which three-pitch sequences most effectively reduce run expectancy for MLB All-Star pitchers. By comparing each pitcher’s optimal sequence to a randomized baseline, the model highlights how strategic sequencing influences pitching effectiveness.
 Tech Stack: R, ggplot2, dplyr
-View Project →
+View Project → [https://github.com/typarker04/world-cup-simulation]
 
-[Project Name 2] - 2022 World Cup Simulation
+<b> 2022 World Cup Simulation </b>
+
 I created an end-to-end simulation of the 2022 World Cup in R, modeling team strength and match outcomes using real performance data. I fit a Bradley-Terry Model from previous match history to fit a latent-strength parameter, which could then be used to determine the log odds outcomes of each matchup. The model simulated the group stage, predicted the knockout bracket, and quantified each team's chances of advancing at every round.
 Tech Stack: R, Bradley-Terry, ggplot2, dplyr
 View Project →
 
-[Project Name 3] - NFL Catch Probability Estimator
+<b> NFL Catch Probability Estimator </b>
+
 Created a catch probability prediction system for NFL pass plays by engineering spatial features from player tracking data across 1,800+ plays from the 2023 season. The model identifies which positioning factors (separation, height advantage, defender alignment) most influence catch success, providing actionable insights for player evaluation independent of quarterback throw accuracy.
 Tech Stack: R, Random Forest, ggplot2, dplyr
 View Project →
-📊 Areas of Interest
+Areas of Interest
 
 Sports Analytics & Performance Metrics
 Econometric Modeling
