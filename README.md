@@ -39,7 +39,7 @@ Skills
 
 This project analyzes Statcast pitch-by-pitch data from the 2024 MLB season to uncover which three-pitch sequences most effectively reduce run expectancy for MLB All-Star pitchers. By comparing each pitcher’s optimal sequence to a randomized baseline, the model highlights how strategic sequencing influences pitching effectiveness.
 Tech Stack: R, ggplot2, dplyr
-[View Project](https://github.com/typarker04/pitch-sequencing)
+[View Project](https://github.com/typarker04/pitch-sequencing/)
 
 <b> 2022 World Cup Simulation </b>
 
