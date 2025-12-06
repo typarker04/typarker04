@@ -34,6 +34,12 @@ Skills
   </tr>
 </table>
 <b>Featured Projects</b>
+<b> NFL Catch Probability Estimator </b>
+
+Created a catch probability prediction system for NFL pass plays by engineering spatial features from player tracking data across 1,800+ plays from the 2023 season. The model identifies which positioning factors (separation, height advantage, defender alignment) most influence catch success, providing actionable insights for player evaluation independent of quarterback throw accuracy.
+Tech Stack: R, Random Forest, ggplot2, dplyr
+[View Project](https://typarker04.github.io/NFL-Catch-Probability-Analysis/)
+
 
 <b> Pitch Sequencing </b>
 
@@ -47,11 +53,6 @@ I created an end-to-end simulation of the 2022 World Cup in R, modeling team str
 Tech Stack: R, Bradley-Terry, ggplot2, dplyr
 [View Project](https://typarker04.github.io/world-cup-simulation/)
 
-<b> NFL Catch Probability Estimator </b>
-
-Created a catch probability prediction system for NFL pass plays by engineering spatial features from player tracking data across 1,800+ plays from the 2023 season. The model identifies which positioning factors (separation, height advantage, defender alignment) most influence catch success, providing actionable insights for player evaluation independent of quarterback throw accuracy.
-Tech Stack: R, Random Forest, ggplot2, dplyr
-[View Project](https://typarker04.github.io/NFL-Catch-Probability-Analysis/)
 
 Areas of Interest
 
