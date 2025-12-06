@@ -34,6 +34,7 @@ Skills
   </tr>
 </table>
 <b>Featured Projects</b>
+
 <b> NFL Catch Probability Estimator </b>
 
 Created a catch probability prediction system for NFL pass plays by engineering spatial features from player tracking data across 1,800+ plays from the 2023 season. The model identifies which positioning factors (separation, height advantage, defender alignment) most influence catch success, providing actionable insights for player evaluation independent of quarterback throw accuracy.
