@@ -3,7 +3,7 @@
   <p><em>Data Science & Economics Student | Sports Analytics Enthusiast</em></p>
 </div>
 About Me
-I'm a Data Science and Economics student passionate about uncovering insights through data analysis and statistical modeling. I love combining economic theory with data-driven approaches to solve real-world problems, with a special focus on sports analytics.
+I'm a Data Science and Economics student at UW-Madison passionate about finding solutions through data analysis and statistical modeling. I am also passionate about using sports-related data to generate actionable solitions and make evidence-based conclusions. 
 Education
 
 Major: Data Science & Economics
