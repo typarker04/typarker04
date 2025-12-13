@@ -2,6 +2,16 @@
   <h1>Hello! My name is Tyler</h1>
   <p><em>Data Science & Economics Student | Sports Analytics Enthusiast</em></p>
 </div>
+
+Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/tyler-parker-8391782b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:trparker@wisc.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.strava.com/athletes/134108595"><img src="https://img.shields.io/badge/-Strava-FC4C02?style=for-the-badge&logo=Strava&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/typarker624"><img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white"/></a>
+
+</p>
+
 About Me
 I'm a Data Science and Economics student at UW-Madison passionate about finding solutions through data analysis and statistical modeling. I am also passionate about using sports-related data to generate actionable solitions and make evidence-based conclusions. 
 Education
@@ -63,11 +73,7 @@ Predictive Analytics
 Data Visualization & Storytelling
 Machine Learning Applications in Economics
 
-Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/tyler-parker-8391782b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:trparker@wisc.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+
 
 <p align="center">
   <em>Feel free to explore my repositories and reach out if you'd like to collaborate on data science or sports analytics projects!</em>
