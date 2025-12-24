@@ -20,6 +20,8 @@ Major: Data Science & Economics
 University: University of Wisconsin-Madison
 Expected Graduation: 2027
 
+Currently Learning: Manim!
+
 Skills
 <table>
   <tr>
