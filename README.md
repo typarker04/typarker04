@@ -34,7 +34,7 @@ Skills
   </tr>
   <tr>
     <td><strong>Data Visualization</strong></td>
-    <td>Matplotlib, Plotly, ggplot2, Tableau, PowerBI</td>
+    <td>Matplotlib, Plotly, ggplot2, Tableau, PowerBI, Manim</td>
   </tr>
   <tr>
     <td><strong>Economics Tools</strong></td>
