@@ -13,8 +13,8 @@ Let's Connect!
 </p>
 
 About Me
-I'm a Data Science and Economics student at UW-Madison passionate about finding solutions through data analysis and statistical modeling. I am also passionate about using sports-related data to generate actionable solitions and make evidence-based conclusions. 
-Education
+I'm a Data Science and Economics student at UW-Madison passionate about finding solutions through data analysis and statistical modeling. I am also passionate about using sports-related data to find actionable solitions and make evidence based conclusions. 
+
 
 Major: Data Science & Economics
 University: University of Wisconsin-Madison
