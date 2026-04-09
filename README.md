@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello! My name is Tyler</h1>
+  <h1>Tyler Parker</h1>
   <p><em>Data Science & Economics Student | Sports Analytics Enthusiast</em></p>
 </div>
 
@@ -13,7 +13,7 @@ Let's Connect!
 </p>
 
 
-I'm a Data Science and Economics student at UW-Madison passionate about finding solutions through data analysis and statistical modeling. I am also passionate about using sports-related data to find actionable solitions and make evidence based conclusions. 
+I'm a Data Science and Economics student at UW-Madison. I am passionate about using sports-related data to find observable solitions and make evidence based conclusions. 
 
 
 Major: Data Science & Economics
@@ -21,8 +21,6 @@ Major: Data Science & Economics
 University: University of Wisconsin-Madison
 
 Expected Graduation: 2027
-
-Currently Learning: Manim!
 
 Skills
 <table>
